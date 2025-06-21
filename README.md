@@ -1,3 +1,4 @@
 # blinkit_clone
 
-A new Flutter project.
+Trying to develop an Blinkit Clone App using Flutter. 
+As a Backend i chose Firebase, It provides many other services thats why. 
